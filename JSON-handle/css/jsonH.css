@@ -286,7 +286,7 @@ button {border-radius:2px;margin:0.5em 0 0;font-family:Tahoma,arial,simsun;borde
 .rich .treeNav .show-leng .array-leng {box-shadow:-2px 1px 3px rgba(70, 70, 70, 0.2);}
 
 .smart .treeNav {font-size:12px;}
-.smart .treeNav .row {line-height:22px;}
+.smart .treeNav .row {line-height:18px;}
 .smart .treeNav .elmBlock .row {background-position-y:-2px;}
 .smart .treeNav .elm {padding: 3px 8px;}
 .smart .treeNav .value {padding: 0 8px 0 4px;}
